@@ -17,7 +17,6 @@ const input = {
     d: "Hello",
 }
 
-
 const convertValues = obj => {
   const result = {};
 
